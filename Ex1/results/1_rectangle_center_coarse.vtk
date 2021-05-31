@@ -1,0 +1,30 @@
+# vtk DataFile Version 2.0
+2D Surface
+ASCII
+DATASET RECTILINEAR_GRID
+DIMENSIONS 6 6 1
+X_COORDINATES 6 float
+0
+2
+4
+6
+8
+10
+Y_COORDINATES 6 float
+0
+2
+4
+6
+8
+10
+Z_COORDINATES 1 float
+0
+POINT_DATA 36
+SCALARS SDValues float
+LOOKUP_TABLE default
+2.82843 2 2 2 2 2.82843 
+2 0 0 0 0 2 
+2 0 -2 -2 0 2 
+2 0 -2 -2 0 2 
+2 0 0 0 0 2 
+2.82843 2 2 2 2 2.82843 

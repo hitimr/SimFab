@@ -1,0 +1,9 @@
+#Folders
+**/out/
+/pytest_cache/
+/test/out/
+
+
+
+# Log Files
+*.log

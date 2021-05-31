@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <Collection>
+    <DataSet timestep="1" group="source12330" part="0" file="rect_curvature/rect_curvature_source12330T0009.vtm"/>
+    <DataSet timestep="1" group="source12558" part="0" file="rect_curvature/rect_curvature_source12558T0000.vtm"/>
+    <DataSet timestep="1" group="source13028" part="0" file="rect_curvature/rect_curvature_source13028T0000.vtm"/>
+    <DataSet timestep="1" group="source13498" part="0" file="rect_curvature/rect_curvature_source13498T0000.vtm"/>
+    <DataSet timestep="1" group="source13985" part="0" file="rect_curvature/rect_curvature_source13985T0000.vtm"/>
+    <DataSet timestep="1" group="source14455" part="0" file="rect_curvature/rect_curvature_source14455T0000.vtm"/>
+  </Collection>
+</VTKFile>
